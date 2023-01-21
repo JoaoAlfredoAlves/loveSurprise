@@ -120,7 +120,7 @@ body {
 }
 
 /* Responsive */
-@media screen and (max-width: 678px) {
+@media screen and (max-width: 1280px) {
 	.main {
 		display: flex;
 		justify-content: center;
